@@ -1,0 +1,4 @@
+<included>
+<property name="service.file" value="${LOGROOT}/ProductCatalog.event.log" />
+ <property name="console.appender.level" value="DEBUG" />
+</included>
